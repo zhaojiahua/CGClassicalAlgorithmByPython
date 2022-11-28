@@ -1,0 +1,2 @@
+# CGClassicalAlgorithmByPython
+计算机图形学中的算法通过Python实现
